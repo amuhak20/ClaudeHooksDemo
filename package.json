@@ -1,0 +1,9 @@
+{
+  "name": "claude-hooks-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Demo of a typed hook pattern with logging, built for Claude Code hooks experiments.",
+  "scripts": {},
+  "keywords": [],
+  "license": "UNLICENSED"
+}
